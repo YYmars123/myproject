@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Python cache (如你写 Python)
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (如不希望上传)
+data/
